@@ -17,7 +17,7 @@ Connection:Disconnect()
 ```
 
 # Object
-A 14 line Object Oriented module
+A 14 line Object-Oriented module
 
 ```lua
 local Point = Object.new()
